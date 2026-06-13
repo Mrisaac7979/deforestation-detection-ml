@@ -16,9 +16,9 @@ This project implements an end-to-end ML pipeline for binary forest cover classi
 
 |Model|AUC-ROC (5-Fold CV)|Accuracy (test)|F1-Score (test)|
 |-|-:|-:|-:|
-|Logistic Regression|0.9498 ± 0.016|—|—|
+|Logistic Regression|0.9498 ± 0.016|-|-|
 |**Random Forest**|**0.9468 ± 0.017**|**96.2%**|**96.1%**|
-|Gradient Boosting|0.9427 ± 0.017|—|—|
+|Gradient Boosting|0.9427 ± 0.017|-|-|
 
 \---
 
