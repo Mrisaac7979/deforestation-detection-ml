@@ -1,4 +1,4 @@
-# Deforestation Detection — Forest / Non-Forest Classification
+# Deforestation Detection - Forest / Non-Forest Classification
 
 **Machine Learning Pipeline · Sentinel-2 Spectral Indices (proxy)**
 
