@@ -30,13 +30,13 @@ Synthetic dataset (n=2,000) calibrated on published Sentinel-2 spectral signatur
 
 |Feature|Description|
 |-|-|
-|`NDVI`|Normalized Difference Vegetation Index — primary greenness indicator|
-|`EVI`|Enhanced Vegetation Index — corrects for atmospheric and soil effects|
-|`NDWI`|Normalized Difference Water Index — moisture/water content|
-|`NIR`|Near-Infrared reflectance — high for dense vegetation|
-|`RED`|Red band reflectance — low for forest (chlorophyll absorption)|
-|`SWIR`|Short-Wave Infrared — canopy structure and moisture|
-|`Delta\_NDVI`|Temporal NDVI change (t2 − t1) — key deforestation signal|
+|`NDVI`|Normalized Difference Vegetation Index - primary greenness indicator|
+|`EVI`|Enhanced Vegetation Index - corrects for atmospheric and soil effects|
+|`NDWI`|Normalized Difference Water Index - moisture/water content|
+|`NIR`|Near-Infrared reflectance - high for dense vegetation|
+|`RED`|Red band reflectance - low for forest (chlorophyll absorption)|
+|`SWIR`|Short-Wave Infrared - canopy structure and moisture|
+|`Delta\_NDVI`|Temporal NDVI change (t2 - t1) - key deforestation signal|
 
 5% label noise added to simulate real-world annotation uncertainty.
 
