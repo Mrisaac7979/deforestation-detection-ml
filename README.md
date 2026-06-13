@@ -9,7 +9,6 @@
 This project implements an end-to-end ML pipeline for binary forest cover classification using spectral indices derived from Sentinel-2 satellite imagery. It serves as a methodological prototype demonstrating the feasibility of automated deforestation detection, ahead of applying the same pipeline to real Sentinel-2/Landsat imagery in a Master's research context.
 
 **Author:** Komi Isaac Junior HOUNBO  
-**Target programs:** FURG/PPGComp · UTFPR/PPGCTA
 
 \---
 
